@@ -26,6 +26,7 @@ header{
     height: 60px;
 }
 
+
 footer{
     background-color: rgb(128, 0, 255);
     width: 100%;
@@ -34,34 +35,35 @@ footer{
 
 /* Set up section tags */
 
-#sec1 {
+#form-gold {
     background-color: goldenrod;
     width: 100%;
-    height: 200px;
+    height: 340px;
 }
 
-#sec2 {
+#form-blue {
     background-color:rgb(0, 123, 255);
     width: 100%;
-    height: 235px;
+    height: 400px;
 }
 
-#sec3 {
+#row {
     background-color:skyblue;
     width: 100%;
     height: 40px;
 }
 
-#sec4 {
+.columns{
+    display: inline-block;
     background-color:skyblue;
     width: 20%;
-    height: 65%;
+    height: 85%;
 }
 
-#sec5 {
+#column-c {
     background-color:skyblue;
     width: 58%;
-    height: 65%;
+    height: 85%;
 }
 
 /* Utility */
